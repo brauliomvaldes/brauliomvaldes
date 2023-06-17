@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brauliomvaldes
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning about big data
-- 💞️ I’m looking to learn about GH
+- 🌱 I’m currently learning about data science
+- 💞️ I’m looking to learn about ML
 - 📫 How to reach me in brauliomariano@gmail.com
